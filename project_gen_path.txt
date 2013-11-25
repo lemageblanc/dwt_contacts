@@ -1,0 +1,5 @@
+Project Gen Path
+used in code generation in dartling_gen
+
+Windows
+--genall C:\Users\Le Mage Blanc\git\dart\biblio\dwt_contacts contact mvc
